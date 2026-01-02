@@ -15,7 +15,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-[        <img src="https://media1.tenor.com/m/Wakk9-QWiLIAAAAC/dokkan-battle-top.gif" width="100%" />](https://media.tenor.com/hR312hTG5T0AAAAm/mythikore-anime-girl.webp)
+[        <img src="https://media.tenor.com/hR312hTG5T0AAAAm/mythikore-anime-girl.webp" width="100%" />]()
       </td>
     </tr>
   </table>
