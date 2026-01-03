@@ -3,7 +3,7 @@
     <tr>
       <td width="60%">
         <h1>Hi 👋, I'm Divyansh Singh</h1>
-        <h3>Security Engineer | Software Engineer | Versatile Learner</h3>
+        <h3>Cyber Security | Software Engineer | Versatile Learner</h3>
         <p align="left">
           <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=di84867" alt="di84867" />
