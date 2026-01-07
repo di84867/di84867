@@ -5,9 +5,6 @@
         <h1>Hi 👋, I'm Divyansh Singh</h1>
         <h3>Cyber Security | Software Engineer | Versatile Learner</h3>
         <p align="left">
-          <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=di84867" alt="di84867" />
-          </a>
         </p>
         <ul>
           <li>🔭 I’m currently working on <b>J.A.R.V.I.S</b></li>
