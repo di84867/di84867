@@ -5,7 +5,8 @@
         <h1>Hi 👋, I'm Divyansh Singh</h1>
         <h3>Security Engineer | Software Engineer | Versatile Learner</h3>
         <ul>
-          <li>🔭 I’m currently learning new tech stack and working on Improving my Coding Skills</li>
+          <li>🔭 I’m currently learning new tech stacks</li>
+          <li>working on Improving my Coding Skills</li>
           <li>👨‍💻 Deep Diving into <b>Cyber Security</b></li>
         </ul>
       </td>
