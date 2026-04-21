@@ -6,7 +6,7 @@
         <h3>Security Engineer | Software Engineer | Versatile Learner</h3>
         <ul>
           <li>🔭 I’m currently learning new tech stacks</li>
-          <li>working on Improving my Coding Skills</li>
+          <li> 🛡️ Working on Improving my Coding Skills with a focus on secure development <li>
           <li>👨‍💻 Deep Diving into <b>Cyber Security</b></li>
         </ul>
       </td>
