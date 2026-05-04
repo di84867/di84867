@@ -5,7 +5,6 @@
         <h1>Hi 👋, I'm @di84867</h1>
         <h3>Security Engineer | Software Engineer | Versatile Learner</h3>
         <ul>
-          <li>🔭 I’m currently learning new tech stacks</li>
           <li>👨‍💻 Continuously Improving my Coding Skills</li>
           <li>🌐 Exploring latest Tech to upgrade myself</li>
           <li>🛡️ Deep Diving into <b>Cyber Security</b></li>
