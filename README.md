@@ -11,7 +11,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="https://media.tenor.com/hR312hTG5T0AAAAm/mythikore-anime-girl.webp" width="100%" />
+        <img src="https://media1.tenor.com/m/ygEJHVnTsEMAAAAd/chika-fujiwara.gif" width="100%" />
       </td>
     </tr>
   </table>
